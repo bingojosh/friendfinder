@@ -1,0 +1,2 @@
+# FriendFinder
+This application is a very simple personality-matching program. The user enters their name, a picture, and answers a short quiz. Upon submission, the user will be matched with another user who has the most similar answers.
